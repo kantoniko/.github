@@ -5,4 +5,4 @@ the corner of Ladino on the Internet
 
 ## Repositories:
 
-* [The words and examples of the dictionary](ladino-diksionaryo-data)
+* [The words and examples of the dictionary](/kantoniko/ladino-diksionaryo-data)
