@@ -5,8 +5,8 @@ the corner of Ladino on the Internet
 ## Repositories:
 
 * [The words and examples of the dictionary](https://github.com/kantoniko/ladino-diksionaryo-data)
-* [Source of the Whatsapp menu](https://github.com/kantoniko/ladino-estamos-whatsapeando)
-* [Source of Una fraza al diya](https://github.com/kantoniko/ladino-una-fraza-al-diya)
+* [Source of the Whatsapp menu](https://github.com/kantoniko/ladino-estamos-whatsapeando) of Albert Israel
+* [Source of Una fraza al diya](https://github.com/kantoniko/ladino-una-fraza-al-diya) of Karen Şarhon
 * [The posters by Aldo Sevi from the Ladinadores](https://github.com/kantoniko/ladino-los-ladinadores) - Los afishes de Aldo Sevi de Los Ladinadores
 * [The audio files of the examples](https://github.com/kantoniko/ladino-diksionaryo-sounds)
 * [The English pages on Kantoniko](https://github.com/kantoniko/ladino-pages)
