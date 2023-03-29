@@ -18,6 +18,8 @@ the corner of Ladino on the Internet
 * [The code](https://github.com/kantoniko/ladino-diksionaryo-code)
 * [The repo that runs the code](https://github.com/kantoniko/kantoniko.github.io)
 
+* [Open issues in all the repositories](https://github.com/search?q=org%3Akantoniko+state%3Aopen&type=Issues)
+
 ## Video series about the site
 
 * How to use it
