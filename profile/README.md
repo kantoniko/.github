@@ -18,9 +18,10 @@ All the other repositories contain different parts of the data.
 * [Haberes Buenos of Buly](https://github.com/kantoniko/haberes-buenos-de-buly) - Haberes Buenos de Buly.
 * [Source of the Salu-Lulu book](https://github.com/kantoniko/ladino-salu-lulu) which is being translated from modern Spanish by Gabor.
 
-## Open Issues
+## Open Issues and Pull Requests
 
-This link will show you all the [open issues in all the repositories](https://github.com/search?q=org%3Akantoniko+state%3Aopen&type=Issues).
+This link will show you all the [open issues in all the repositories](https://github.com/search?q=org%3Akantoniko+state%3Aopen&type=Issues)
+and this will show all the [open pull-requests in all the repositories](https://github.com/search?q=org%3Akantoniko+state%3Aopen&type=pullrequests).
 
 ## Video series in English about the site
 
